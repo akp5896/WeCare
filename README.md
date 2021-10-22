@@ -1,2 +1,2 @@
 # WeCare
-commit
+Main page
